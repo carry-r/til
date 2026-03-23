@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Updated dependencies to latest stable versions
 - Reorganised test fixtures
+
+## 2026-03-23
+- Refactored module structure for clarity
+- Tidied up project structure
